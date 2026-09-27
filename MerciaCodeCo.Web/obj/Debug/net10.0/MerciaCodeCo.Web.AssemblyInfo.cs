@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MerciaCodeCo.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37d05e17c57c39e428f3532e8a47dfc52db7d2c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ec1f9ac1b9da69544678d1e8a9ece6e4d6f1b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MerciaCodeCo.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MerciaCodeCo.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
