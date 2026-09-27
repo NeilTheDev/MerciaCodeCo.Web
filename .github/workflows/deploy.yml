@@ -1,0 +1,49 @@
+name: Build and Deploy Blazor App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Publish Blazor App
+        run: |
+          dotnet publish ./MerciaCodeCo.Web/MerciaCodeCo.Web.csproj \
+            -c Release \
+            -r linux-x64 \
+            --self-contained false \
+            -o ./publish
+
+      - name: Deploy Binaries to VPS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          port: ${{ secrets.VPS_PORT }}
+          username: root
+          key: ${{ secrets.VPS_SSH_KEY }}
+          source: "./publish/*"
+          target: "/var/www/merciacode/"
+          strip_components: 1
+
+      - name: Restart Systemd Service
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          port: ${{ secrets.VPS_PORT }}
+          username: root
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            systemctl restart merciacode
+            systemctl status merciacode --no-pager

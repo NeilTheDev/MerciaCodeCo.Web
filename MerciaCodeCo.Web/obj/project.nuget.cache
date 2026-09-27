@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FNeKjMMaTfw=",
+  "dgSpecHash": "NkoLTpuxa5Q=",
   "success": true,
   "projectFilePath": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\10.0.12\\microsoft.netcore.app.host.linux-x64.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }

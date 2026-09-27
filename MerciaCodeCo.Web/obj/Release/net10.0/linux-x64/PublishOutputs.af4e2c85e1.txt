@@ -1,0 +1,7 @@
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\MerciaCodeCo.Web
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\appsettings.Development.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\appsettings.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\MerciaCodeCo.Web.dll
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\MerciaCodeCo.Web.runtimeconfig.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\MerciaCodeCo.Web.pdb
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\publish\MerciaCodeCo.Web.deps.json
