@@ -84,3 +84,9 @@ C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\
 C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\obj\Debug\net10.0\MerciaCodeCo.Web.genruntimeconfig.cache
 C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\obj\Debug\net10.0\ref\MerciaCodeCo.Web.dll
 C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\obj\Debug\net10.0\MerciaCo.853906DA.Up2Date
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\bin\Debug\net10.0\publish\appsettings.Development.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\bin\Debug\net10.0\publish\appsettings.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\bin\Debug\net10.0\publish\MerciaCodeCo.Web.deps.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\bin\Debug\net10.0\publish\MerciaCodeCo.Web.runtimeconfig.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\bin\Debug\net10.0\publish\MerciaCodeCo.Web.staticwebassets.endpoints.json
+C:\My Projects\MerciaCodeCo Projects\Internal\MerciaCodeCo.Web\MerciaCodeCo.Web\obj\Debug\net10.0\compressed\4rn31d9gky-{0}-w3pew5ckjc-w3pew5ckjc.gz

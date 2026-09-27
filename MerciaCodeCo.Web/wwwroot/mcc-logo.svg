@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 120" width="100%" height="100%">
+  <!-- Background Container -->
+  <rect width="540" height="120" rx="12" fill="#0F172A"/>
+  
+  <!-- Icon Mark: Mercian Saltire + Code Brackets (< • >) -->
+  <g transform="translate(25, 20)">
+    <!-- Left Bracket (<) -->
+    <path d="M 35 15 L 15 40 L 35 65" fill="none" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right Bracket (>) -->
+    <path d="M 45 15 L 65 40 L 45 65" fill="none" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Central Cyan Hardware Node -->
+    <circle cx="40" cy="40" r="5" fill="#06B6D4"/>
+  </g>
+  
+  <!-- Brand Name: MERCIA CODE CO. -->
+  <text x="120" y="52" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-weight="800" font-size="32" fill="#FFFFFF" letter-spacing="1">MERCIA CODE CO.</text>
+  
+  <!-- Subtitle: TECH & WEB SOLUTIONS -->
+  <text x="122" y="82" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="15" fill="#F59E0B" letter-spacing="2">TECH &amp; WEB SOLUTIONS</text>
+</svg>
