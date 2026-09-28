@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|c:\\my projects\\merciacodeco projects\\internal\\merciacodeco.web\\merciacodeco.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|solutionrelative:merciacodeco.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|c:\\my projects\\merciacodeco projects\\internal\\merciacodeco.web\\merciacodeco.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|solutionrelative:merciacodeco.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|c:\\my projects\\merciacodeco projects\\internal\\merciacodeco.web\\merciacodeco.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|solutionrelative:merciacodeco.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|c:\\my projects\\merciacodeco projects\\internal\\merciacodeco.web\\merciacodeco.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CB06CD-DA0D-4357-4490-5B8EE0D1F181}|MerciaCodeCo.Web\\MerciaCodeCo.Web.csproj|solutionrelative:merciacodeco.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 173,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "MerciaCodeCo.Web\\wwwroot\\app.css",
+              "ToolTip": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\wwwroot\\app.css",
+              "RelativeToolTip": "MerciaCodeCo.Web\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-27T20:51:39.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MerciaCodeCo.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MerciaCodeCo.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:03:16.51Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MerciaCodeCo.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Layout\\MainLayout.razor*",
+              "RelativeToolTip": "MerciaCodeCo.Web\\Components\\Layout\\MainLayout.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:52:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MerciaCodeCo.Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\My Projects\\MerciaCodeCo Projects\\Internal\\MerciaCodeCo.Web\\MerciaCodeCo.Web\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MerciaCodeCo.Web\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:50:47.247Z",
+              "EditorCaption": ""
             }
           ]
         }
